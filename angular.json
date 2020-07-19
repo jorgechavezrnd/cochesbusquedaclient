@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cochesfrontend"
+    }
+  },
+  "defaultProject": "cochesfrontend",
+  "cli": {
+    "analytics": "6390c677-a054-4ccc-9471-97e0fb945ccf"
+  }
 }
